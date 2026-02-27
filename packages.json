@@ -4,6 +4,10 @@
     "url": "https://github.com/rOpenGov/noaa"
   },
   {
+    "package": "openthl",
+    "url": "https://github.com/rOpenGov/openthl"
+  },
+  {
     "package": "ogdindiar",
     "url": "https://github.com/rOpenGov/ogdindiar"
   },
