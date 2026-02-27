@@ -1,5 +1,9 @@
 [
   {
+    "package": "nasa",
+    "url": "https://github.com/rOpenGov/nasa"
+  },
+  {
     "package": "RPublica",
     "url": "https://github.com/rOpenGov/RPublica"
   },
@@ -59,10 +63,6 @@
      "package": "kelaopendata",
      "url": "https://github.com/rOpenGov/kelaopendata"
    },
-   {
-    "package": "mpg",
-    "url": "https://github.com/rOpenGov/mpg"
-  },
   {
     "package": "vipunen",
     "url": "https://github.com/rOpenGov/vipunen"
