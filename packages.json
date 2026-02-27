@@ -1,10 +1,6 @@
 [
   {
-    "package": "giscoR",
-    "url": "https://github.com/rOpenGov/giscoR"
-  },
-  {
-    "package": "rogtemplate",
-    "url": "https://github.com/rOpenGov/rogtemplate"
+    "package": "eurostat",
+    "url": "https://github.com/rOpenGov/eurostat"
   }
 ]
