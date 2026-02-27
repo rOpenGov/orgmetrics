@@ -59,6 +59,10 @@
      "package": "kelaopendata",
      "url": "https://github.com/rOpenGov/kelaopendata"
    },
+   {
+    "package": "mpg",
+    "url": "https://github.com/rOpenGov/mpg"
+  },
   {
     "package": "vipunen",
     "url": "https://github.com/rOpenGov/vipunen"
