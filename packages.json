@@ -4,6 +4,10 @@
     "url": "https://github.com/rOpenGov/noaa"
   },
   {
+    "package": "psData",
+    "url": "https://github.com/rOpenGov/psData"
+  },
+  {
     "package": "openthl",
     "url": "https://github.com/rOpenGov/openthl"
   },
