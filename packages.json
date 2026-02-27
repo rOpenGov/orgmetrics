@@ -60,10 +60,6 @@
     "url": "https://github.com/rOpenGov/kelaopendata"
   },
   {
-    "package": "mpg",
-    "url": "https://github.com/rOpenGov/mpg"
-  },
-  {
     "package": "nasa",
     "url": "https://github.com/rOpenGov/nasa"
   },
