@@ -3,7 +3,7 @@ on:
   push:
     branches: [main, master]
   schedule:
-  - cron: '00 09 * * *'
+  - cron: '00 06 * * 2,6'
 
 name: Orgmetrics dashboard
 
@@ -43,9 +43,8 @@ jobs:
 
     - name: Orgmetrics deploy
       run: Rscript -e "options('rlang_message_verbosity'='verbose');
-        orgmetrics::orgmetrics_deploy_r_univ(
-        url='https://github.com/rOpenGov/ropengov.r-universe.dev',
-        aggregation_period = 365L, title ='rOpenGov')"
+        orgmetrics::orgmetrics_deploy_r_univ(url='https://github.com/${{
+        github.repository }}', aggregation_period = 365L, title ='rOpenGov')"
       env:
         R_CRAN_WEB: "https://cloud.r-project.org"
         GITHUB_TOKEN: ${{ github.token }}
