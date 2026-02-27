@@ -2,5 +2,9 @@
   {
     "package": "eurostat",
     "url": "https://github.com/rOpenGov/eurostat"
+  },
+  {
+    "package": "giscoR",
+    "url": "https://github.com/rOpenGov/giscoR"
   }
 ]
