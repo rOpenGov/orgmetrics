@@ -1,5 +1,29 @@
 [
   {
+    "package": "pxweb",
+    "url": "https://github.com/rOpenGov/pxweb"
+  },
+  {
+    "package": "r311",
+    "url": "https://github.com/rOpenGov/r311"
+  },
+  {
+    "package": "regions",
+    "url": "https://github.com/rOpenGov/regions"
+  },
+  {
+    "package": "retroharmonize",
+    "url": "https://github.com/rOpenGov/retroharmonize"
+  },
+  {
+    "package": "rogtemplate",
+    "url": "https://github.com/rOpenGov/rogtemplate"
+  },
+  {
+    "package": "rqog",
+    "url": "https://github.com/rOpenGov/rqog"
+  },
+  {
     "package": "noaa",
     "url": "https://github.com/rOpenGov/noaa"
   },
