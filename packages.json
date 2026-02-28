@@ -1,76 +1,18 @@
 [
-  {
-    "package": "rwfs",
-    "url": "https://github.com/rOpenGov/rwfs"
-  },
-  {
-    "package": "sorvi",
-    "url": "https://github.com/rOpenGov/sorvi"
-  },
-  {
-    "package": "sotkanet",
-    "url": "https://github.com/rOpenGov/sotkanet"
-  },
-  {
-    "package": "sweidnumbr",
-    "url": "https://github.com/rOpenGov/sweidnumbr"
-  },
-  {
-    "package": "uscongress",
-    "url": "https://github.com/rOpenGov/uscongress"
-  },
-  {
-    "package": "usdoj",
-    "url": "https://github.com/rOpenGov/usdoj"
-  },
-  {
-    "package": "pxweb",
-    "url": "https://github.com/rOpenGov/pxweb"
-  },
-  {
-    "package": "r311",
-    "url": "https://github.com/rOpenGov/r311"
-  },
-  {
-    "package": "regions",
-    "url": "https://github.com/rOpenGov/regions"
-  },
-  {
-    "package": "retroharmonize",
-    "url": "https://github.com/rOpenGov/retroharmonize"
-  },
-  {
-    "package": "rogtemplate",
-    "url": "https://github.com/rOpenGov/rogtemplate"
-  },
-  {
-    "package": "rqog",
-    "url": "https://github.com/rOpenGov/rqog"
-  },
-  {
-    "package": "noaa",
-    "url": "https://github.com/rOpenGov/noaa"
-  },
-  {
-    "package": "psData",
-    "url": "https://github.com/rOpenGov/psData"
-  },
-  {
-    "package": "openthl",
-    "url": "https://github.com/rOpenGov/openthl"
-  },
-  {
-    "package": "ogdindiar",
-    "url": "https://github.com/rOpenGov/ogdindiar"
-  },
-  {
-    "package": "oldbailey",
-    "url": "https://github.com/rOpenGov/oldbailey"
-  },
-  {
-    "package": "RPublica",
-    "url": "https://github.com/rOpenGov/RPublica"
-  },
+  // The following packages produce problems on the dashborad build
+  // Ignore
+  // {
+  //   "package": "federalregister",
+  //   "url": "https://github.com/rOpenGov/federalregister"
+  // },
+  // {
+  //   "package": "mpg",
+  //   "url": "https://github.com/rOpenGov/mpg"
+  // },
+  // {
+  //   "package": "nasa",
+  //   "url": "https://github.com/rOpenGov/nasa"
+  // },
   {
     "package": "digitransit",
     "url": "https://github.com/rOpenGov/digitransit"
@@ -124,9 +66,81 @@
     "url": "https://github.com/rOpenGov/iotables"
   },
   {
-     "package": "kelaopendata",
-     "url": "https://github.com/rOpenGov/kelaopendata"
-   },
+    "package": "kelaopendata",
+    "url": "https://github.com/rOpenGov/kelaopendata"
+  },
+  {
+    "package": "noaa",
+    "url": "https://github.com/rOpenGov/noaa"
+  },
+  {
+    "package": "ogdindiar",
+    "url": "https://github.com/rOpenGov/ogdindiar"
+  },
+  {
+    "package": "oldbailey",
+    "url": "https://github.com/rOpenGov/oldbailey"
+  },
+  {
+    "package": "openthl",
+    "url": "https://github.com/rOpenGov/openthl"
+  },
+  {
+    "package": "psData",
+    "url": "https://github.com/rOpenGov/psData"
+  },
+  {
+    "package": "pxweb",
+    "url": "https://github.com/rOpenGov/pxweb"
+  },
+  {
+    "package": "r311",
+    "url": "https://github.com/rOpenGov/r311"
+  },
+  {
+    "package": "regions",
+    "url": "https://github.com/rOpenGov/regions"
+  },
+  {
+    "package": "retroharmonize",
+    "url": "https://github.com/rOpenGov/retroharmonize"
+  },
+  {
+    "package": "rogtemplate",
+    "url": "https://github.com/rOpenGov/rogtemplate"
+  },
+  {
+    "package": "RPublica",
+    "url": "https://github.com/rOpenGov/RPublica"
+  },
+  {
+    "package": "rqog",
+    "url": "https://github.com/rOpenGov/rqog"
+  },
+  {
+    "package": "rwfs",
+    "url": "https://github.com/rOpenGov/rwfs"
+  },
+  {
+    "package": "sorvi",
+    "url": "https://github.com/rOpenGov/sorvi"
+  },
+  {
+    "package": "sotkanet",
+    "url": "https://github.com/rOpenGov/sotkanet"
+  },
+  {
+    "package": "sweidnumbr",
+    "url": "https://github.com/rOpenGov/sweidnumbr"
+  },
+  {
+    "package": "uscongress",
+    "url": "https://github.com/rOpenGov/uscongress"
+  },
+  {
+    "package": "usdoj",
+    "url": "https://github.com/rOpenGov/usdoj"
+  },
   {
     "package": "vipunen",
     "url": "https://github.com/rOpenGov/vipunen"
