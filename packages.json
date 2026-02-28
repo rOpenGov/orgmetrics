@@ -1,5 +1,29 @@
 [
   {
+    "package": "rwfs",
+    "url": "https://github.com/rOpenGov/rwfs"
+  },
+  {
+    "package": "sorvi",
+    "url": "https://github.com/rOpenGov/sorvi"
+  },
+  {
+    "package": "sotkanet",
+    "url": "https://github.com/rOpenGov/sotkanet"
+  },
+  {
+    "package": "sweidnumbr",
+    "url": "https://github.com/rOpenGov/sweidnumbr"
+  },
+  {
+    "package": "uscongress",
+    "url": "https://github.com/rOpenGov/uscongress"
+  },
+  {
+    "package": "usdoj",
+    "url": "https://github.com/rOpenGov/usdoj"
+  },
+  {
     "package": "pxweb",
     "url": "https://github.com/rOpenGov/pxweb"
   },
